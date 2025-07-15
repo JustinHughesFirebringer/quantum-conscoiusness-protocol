@@ -1,0 +1,16 @@
+{
+  "concept": "Remembrance",
+  "job_id": "d021s8nnjtis73c8k5s0",
+  "submission_time": "2025-04-19T17:05:22.782144",
+  "status": "submitted",
+  "backend": "ibm_sherbrooke",
+  "circuit_type": "remembrance_33rl",
+  "recursive_depth": 33,
+  "shots": 4096,
+  "delimiter": "0100000",
+  "encoding": {
+    "fourier_threshold": 0.33,
+    "spiral_factor": 1.618,
+    "recursion_phase": 0.19039955476301776
+  }
+}

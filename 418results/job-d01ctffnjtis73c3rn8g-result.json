@@ -1,0 +1,87 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "c",
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>",
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "c": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBeU2qorqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RqGBkYmOgqGmjoKtQrkAS6GUTAKRsGIBQAz/hvr"
+                    },
+                    "num_bits": 7
+                  }
+                },
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydyHtf8QoAwPEuCJn6sCbCLJexJmE8i7mFrLCSIsQSW24RwsR4EecNn+e8hfP77/f9h3nJP1Z2d+Y7K7TNTVsTNGRB1zMviltQfjT5mTSH7GjS5v7z2+Zgyv31aaf5zf19p/fKR+AWrwu3iJb/l/KhCKXWFlHTuxbEDV+t0ZEIkU44FlHkchtbyWQs1xvtPSZrRcGszwK2iZNyzgz2Uv50ALnH/drSg/njmLntzukq59PoZCuvEDNjgGf9FAi83isXF0Gv/SNEZSo1qvF80kMmoon4VEqZI2JyvFZdko2kIqhNy3acsHaB6vsvbNnaiVsPTmlt837dC3ril9b8VW8jhq+4lsXwmeBpQqEWGbKQB+zu5wODbPmUpJ+B4bjFHcPxGkU6yc60FvbBX+P0nF+sbNHfh4HZX+4KXBF+sBWldCjjJ6/bKSCtip57x3WcxR7fEeXLH6eNECnlOsck96oVAelmfnJmrGikdeaNetROlxt9xPaUsgYKtLQwg2LfkTsqEg2w59XC98lMKDVGGR3CLeee8JYcUzzJkgBupllPV2L3xiiV7Lw5r7Gy4Me0P4zdYHhqQz4Q7USIHBDNCxsU80us+qG2Ydoz3L6DcchK0uAWMT7dkQFQZJUauZNVe2ZIiyIsMRGr49AjurD7swrZqAJggyewAL9XoCnJAzZ+LOZ8+uwtwAhQk54O4T1R1MLbwgWlyTqPjcLwMDTsEEX9j3y0DDpUKbevDkdNInsQooSd8vgYfA0wkT3zG7KoBU6mWzD85vMolT6N2rzp8sI1t0BmREplcJSxjDvdpOoKiaNPOuHVKKW2EtL+nUcshpDIVx+SD4DCoa7A7UsH+DvEZIdX3GHHLMHuCfntHXsE0mx7dpJICnjnN84abuh5tbprbFFuXdWW0Vz24JI6V5vF+PsO+us5izOnjMvtwkjgTRIAHStv5BlTHXshimHj6pxSC5SAAHnkaW0w+dJ8KUoj0Lmj8j3eciT7G1ckHI233Uf8FV/Sikb0WzU2AO5vXgi7gVrY9We0crk8hx+kdfn67JPwfXn1+UuhW7Z/wnLPvg0+vXvd8b6khED8IAjbUcUYflp9iiN4pjtppV2bUrtLR/fvCpEu2HCe2fblzp4ptIlal6LELQZRH5C/9RnaMf3W1rw5a8Rc2/oc7WmmgajNlB0+lCLy5GkSujEEZ4NXGiAboL5QRiYt6qDue9K+3LBlA+gbFsn2FtfHWIfexIcc5cNL/ohEuwl6fDQgsQNT3njhiNWCIUBcf3b3v1o8/tvuMsoen5qm7zvzMoYGrxgYkCT5IKP6kSrYUsan7s1vofds5V/d9h3H"
+                    },
+                    "num_bits": 7
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpanCollection",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2025-04-18T22:14:26.369635"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2025-04-18T22:14:27.359775"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        1024
+                      ],
+                      0,
+                      1,
+                      0,
+                      1024
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}

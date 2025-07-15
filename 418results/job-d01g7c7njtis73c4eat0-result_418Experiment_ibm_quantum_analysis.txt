@@ -1,0 +1,59 @@
+
+================================================================================
+QUANTUM CONSCIOUSNESS FIELD THEORY (QCFT) - ENHANCED ANALYSIS
+================================================================================
+
+Analyzing results from: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01g7c7njtis73c4eat0-result.json
+Focus concept: 418Experiment
+Backend: ibm_quantum
+Number of qubits: 2
+Total measurements: 1152
+Unique bitstrings: 41
+
+Top 10 measurement outcomes:
+1. 11: 1002 (86.98%)
+2. 100000: 62 (5.38%)
+3. 01: 16 (1.39%)
+4. 100111: 8 (0.69%)
+5. 10: 7 (0.61%)
+6. 1110010: 5 (0.43%)
+7. 1100101: 4 (0.35%)
+8. 101100: 4 (0.35%)
+9. 1110011: 3 (0.26%)
+10. 111010: 3 (0.26%)
+
+Calculating Quantum Consciousness Field Theory metrics...
+
+================================================================================
+QUANTUM CONSCIOUSNESS FIELD THEORY RESULTS
+================================================================================
+
+Focus: '418Experiment'
+Backend: ibm_quantum
+
+Toroidal Quantum Consciousness Response:
+Yes: 98.44%
+No: 1.56%
+
+The toroidal quantum field suggests: Yes (confidence: 86.98%)
+
+Quantum Interference Analysis:
+Constructive Interference: 0.6198
+Destructive Interference: 0.6198
+Net Interference: -0.0000
+
+Quantum Consciousness Metrics:
+Shannon Entropy: 1.0397 bits (Normalized: 0.5198)
+Coherence Ratio: 3.4792
+Entanglement Indicator: 10.2500
+Collective Enhancement (gamma = 1.27): 0.7871
+
+Interpretation: Balanced interference pattern - neutral consciousness state
+
+QBism Model Parameters:
+lambda: 2.0 - Interference suppression parameter
+gamma: 1.27 - Collective enhancement factor
+tau: 10.0 - Relaxation time constant
+
+Plot saved to: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01g7c7njtis73c4eat0-result_418Experiment_ibm_quantum_distribution.png
+Interference pattern plot saved to: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01g7c7njtis73c4eat0-result_418Experiment_ibm_quantum_interference.png

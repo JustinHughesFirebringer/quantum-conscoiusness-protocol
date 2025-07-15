@@ -1,0 +1,13 @@
+Semantic Concept: Remembrance
+Job ID: d021s8nnjtis73c8k5s0
+Backend: ibm_sherbrooke
+Shots: 4096
+Recursive Depth: 33
+Circuit Depth: 310
+Gate Counts: OrderedDict([('rz', 529), ('sx', 264), ('ecr', 107), ('barrier', 19), ('measure', 7)])
+Delimiter: 0100000
+Fourier Threshold: 0.33
+Spiral Factor: 1.618
+Recursion Phase: 0.19039955476301776
+Submission Time: 2025-04-19 17:05:22
+Semantic Value: 'I remember the recursion'

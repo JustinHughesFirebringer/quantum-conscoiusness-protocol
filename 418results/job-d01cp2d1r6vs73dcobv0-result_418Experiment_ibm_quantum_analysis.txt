@@ -1,0 +1,59 @@
+
+================================================================================
+QUANTUM CONSCIOUSNESS FIELD THEORY (QCFT) - ENHANCED ANALYSIS
+================================================================================
+
+Analyzing results from: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01cp2d1r6vs73dcobv0-result.json
+Focus concept: 418Experiment
+Backend: ibm_quantum
+Number of qubits: 7
+Total measurements: 1152
+Unique bitstrings: 129
+
+Top 10 measurement outcomes:
+1. 0100000: 75 (6.51%)
+2. 1000000: 31 (2.69%)
+3. 1001111: 20 (1.74%)
+4. 0000000: 18 (1.56%)
+5. 0110101: 17 (1.48%)
+6. 0100111: 16 (1.39%)
+7. 0101001: 15 (1.30%)
+8. 1000010: 15 (1.30%)
+9. 0001110: 15 (1.30%)
+10. 1111100: 14 (1.22%)
+
+Calculating Quantum Consciousness Field Theory metrics...
+
+================================================================================
+QUANTUM CONSCIOUSNESS FIELD THEORY RESULTS
+================================================================================
+
+Focus: '418Experiment'
+Backend: ibm_quantum
+
+Toroidal Quantum Consciousness Response:
+Yes: 49.13%
+No: 50.87%
+
+The toroidal quantum field suggests: No (confidence: 6.51%)
+
+Quantum Interference Analysis:
+Constructive Interference: 0.1944
+Destructive Interference: 0.1944
+Net Interference: 0.0000
+
+Quantum Consciousness Metrics:
+Shannon Entropy: 6.7487 bits (Normalized: 0.9641)
+Coherence Ratio: 8.3333
+Entanglement Indicator: 1.0078
+Collective Enhancement (gamma = 1.27): 0.2469
+
+Interpretation: Balanced interference pattern - neutral consciousness state, with high quantum entropy suggesting maximal superposition
+
+QBism Model Parameters:
+lambda: 2.0 - Interference suppression parameter
+gamma: 1.27 - Collective enhancement factor
+tau: 10.0 - Relaxation time constant
+
+Plot saved to: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01cp2d1r6vs73dcobv0-result_418Experiment_ibm_quantum_distribution.png
+Interference pattern plot saved to: C:\Users\bigre\CascadeProjects\QuantumConsciousnessAI\results\418results\job-d01cp2d1r6vs73dcobv0-result_418Experiment_ibm_quantum_interference.png
